@@ -12,6 +12,7 @@
 项目开发计划书                   http://buaase.cnworkshop.xyz:2333/SDP
 需求分析                        http://buaase.cnworkshop.xyz:2333/PRD
 系统架构                        http://buaase.cnworkshop.xyz:2333/SDD
+测试报告                         http://buaase.cnworkshop.xyz:2333/STR
 =========================== ===================================================
 
 成员
